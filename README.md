@@ -1,4 +1,4 @@
-# WilliamSonoma
+# WilliamsSonoma
 
 # Instructions
 Run the project either through command line or importing it to IDE and running from there.
